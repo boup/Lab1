@@ -1,0 +1,14 @@
+berlin
+adama 87012800000
+berlin
+adama 87012800000
+poznan
+modou 90123100000
+dakar
+demba 87012800000
+paris
+bakary 90123100000
+berlin
+gone 87012800000
+paris
+john 90123100000
