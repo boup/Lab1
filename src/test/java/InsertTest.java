@@ -7,17 +7,17 @@ import java.io.*;
 
 public class InsertTest  {
 
-    @Test
+   @Test
     public void testPesel() {
-        Insert psl = new Insert("a","bb","ccc","90124500000");
-        Assert.assertFalse(psl.isValid());//
-    }
-    @Test
-    public void testPesel1()
-    {
         Insert psl = new Insert("a","bb","ccc","90123100000");
-        Assert.assertTrue(psl.isValid());
+        Assert.assertTrue(psl.isValid());//
     }
+//     @Test
+//    public void testPesel1()
+//    {
+//        Insert psl = new Insert("ab","bbb","cccb","91021200000");
+//        Assert.assertTrue(psl.isValid());
+//    }
 
 
 }
